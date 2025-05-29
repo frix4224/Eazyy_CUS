@@ -1,0 +1,90 @@
+export const MAIN_NAV_STRINGS = {
+  SPLASH: "SPLASH",
+  INTRO: "INTRO",
+  AUTHSTACK: "AUTHSTACK",
+  MAINSTACK: "MAINSTACK",
+  CART_SCREEN: "CART_SCREEN",
+  PICK_COLLECT_SCREEN: "PICK_COLLECT_SCREEN",
+  CHECKOUT: "CHECKOUT",
+  ORDER_DETAILS: "ORDER_DETAILS",
+  ORDER_SUCCESS: "ORDER_SUCCESS",
+  ADD_ADDRESS: "ADD_ADDRESS",
+  FAQ: "FAQ",
+  PAYMENT: "PAYMENT",
+  PASSWORD_RESET: "PASSWORD_RESET",
+};
+
+export const AUTH_STACK_STRINGS = {
+  AUTH_CONTROLLER: "AUTH_CONTROLLER",
+  SIGNUP: "SIGNUP",
+  LOGIN: "LOGIN",
+};
+
+export const TAB_STRINGS = {
+  HOME: "Home",
+  PRICE: "PRICE",
+  ORDER: "ORDER",
+  ACCOUNT: "ACCOUNT",
+};
+export const TAB_HOME_STACK_STRINGS = {
+  HOME: "HomeScreen",
+  SERVICE_OVERVIEW: "ServiceOverview",
+  CART: "CartScreen",
+  PICK_COLLECT: "PICK_COLLECT",
+};
+export const TAB_PRICING_STACK_STRINGS = {
+  HOME: "PriceScreen",
+};
+export const TAB_ORDERS_STACK_STRINGS = {
+  HOME: "OrderScreen",
+};
+export const TAB_ACCOUNT_STACK_STRINGS = {
+  HOME: "AccountScreen",
+  EDIT_PROFILE: "editProfile",
+};
+// accbak/laundry-day-dream/accbak-laundry-day-dream-e7edca62d8a70de63bff20cfe46310379eaa1ad5/app/navigation/constants.ts
+export const MAIN_NAV_STRINGS = {
+  SPLASH: "SPLASH",
+  INTRO: "INTRO",
+  AUTHSTACK: "AUTHSTACK",
+  MAINSTACK: "MAINSTACK",
+  CART_SCREEN: "CART_SCREEN",
+  PICK_COLLECT_SCREEN: "PICK_COLLECT_SCREEN",
+  CHECKOUT: "CHECKOUT",
+  ORDER_DETAILS: "ORDER_DETAILS",
+  ORDER_SUCCESS: "ORDER_SUCCESS",
+  ADD_ADDRESS: "ADD_ADDRESS",
+  FAQ: "FAQ",
+  PAYMENT: "PAYMENT",
+  PASSWORD_RESET: "PASSWORD_RESET",
+  CUSTOM_QUOTE_REQUEST: "CUSTOM_QUOTE_REQUEST", // Add this line
+};
+
+export const AUTH_STACK_STRINGS = {
+  AUTH_CONTROLLER: "AUTH_CONTROLLER",
+  SIGNUP: "SIGNUP",
+  LOGIN: "LOGIN",
+};
+
+export const TAB_STRINGS = {
+  HOME: "Home",
+  PRICE: "PRICE",
+  ORDER: "ORDER",
+  ACCOUNT: "ACCOUNT",
+};
+export const TAB_HOME_STACK_STRINGS = {
+  HOME: "HomeScreen",
+  SERVICE_OVERVIEW: "ServiceOverview",
+  CART: "CartScreen",
+  PICK_COLLECT: "PICK_COLLECT",
+};
+export const TAB_PRICING_STACK_STRINGS = {
+  HOME: "PriceScreen",
+};
+export const TAB_ORDERS_STACK_STRINGS = {
+  HOME: "OrderScreen",
+};
+export const TAB_ACCOUNT_STACK_STRINGS = {
+  HOME: "AccountScreen",
+  EDIT_PROFILE: "editProfile",
+};

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670240009207",
+    "project_id": "eazyy-7def4",
+    "storage_bucket": "eazyy-7def4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670240009207:android:dc9a53be2a047def9c5cf2",
+        "android_client_info": {
+          "package_name": "com.eazyy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4g26XTkqBk_z6D3Q5n5KhIKzhm1tFmOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
